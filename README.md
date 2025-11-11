@@ -64,7 +64,7 @@ Para detalhar a aplicação prática de cada tipo de tarefa, o conteúdo será d
 
 ### 4.1. Módulo de Regressão
 
-*(Referência ao notebook de implementação de um modelo de regressão.)*
+[Notebook de Regressão](/notebooks/supervisionado/regressao/regressao.ipynb)
 
 ### 4.2. Módulo de Classificação
 
